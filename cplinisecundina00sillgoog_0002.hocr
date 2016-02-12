@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cplinisecundina00sillgoog_0002.png"; bbox 0 0 2961 4861; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 856 436 1891">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 856 436 1891">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 856 436 1891; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 856 436 1891; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1071 3121 1747 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1071 3121 1747 3156">
+     <span class='ocr_line' id='line_1_2' title="bbox 1071 3121 1747 3156; baseline 0.021 -13"><span class='ocrx_word' id='word_1_2' title='bbox 1071 3121 1255 3146; x_wconf 59' lang='lat' dir='ltr'><strong>:un</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1326 3121 1563 3152; x_wconf 60' lang='lat' dir='ltr'><strong>Ulr‘l‘</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1632 3121 1747 3156; x_wconf 61' lang='lat' dir='ltr'><strong>uss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 750 3195 1931 3289">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 650 3195 1931 3289">
+     <span class='ocr_line' id='line_1_3' title="bbox 750 3195 1931 3289; baseline 0.019 -30.126"><span class='ocrx_word' id='word_1_5' title='bbox 750 3195 794 3289; x_wconf 28' lang='grc' dir='ltr'><strong>μζ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 926 3212 1344 3266; x_wconf 67' lang='lat' dir='ltr'><strong>smmpnmn</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1398 3224 1931 3283; x_wconf 62' lang='lat' dir='ltr'>muasnumr,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2295 895 2383 941">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2295 895 2383 941">
+     <span class='ocr_line' id='line_1_4' title="bbox 2295 895 2383 941; baseline 0.011 -19"><span class='ocrx_word' id='word_1_8' title='bbox 2295 895 2383 941; x_wconf 43' lang='grc' dir='ltr'><strong>«τη,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
